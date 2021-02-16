@@ -1,0 +1,17 @@
+body {
+  background-color: white;
+}
+
+nav {
+  display: block;
+  background-color: black;
+  width: auto;
+  height: 200px;
+}
+ul {
+  display: inline-flex;
+}
+
+#nav-list {
+  display: inline;
+}
